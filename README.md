@@ -1,3 +1,3 @@
 # WeekOne-assignment
 
-# Facebook Project-faceBook login page
+# Facebook Project-facebook login page
